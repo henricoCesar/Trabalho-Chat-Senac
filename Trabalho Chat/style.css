@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-image: url(./pngtree-lakescape-landscape-nature-scenery-hd-picture-image_3712644.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+    margin-top: 50px;
+    color: rgb(73, 228, 53);
+}
+
+#message-container{
+    color:rgb(0, 0, 0) ;
+    font-size: 17px;
+    /*border: 1px solid #ffffff;*/
+    padding: 10px;
+    margin: 20px 0;
+    max-height: 300px;
+    /*overflow-y: auto;*/
+}
